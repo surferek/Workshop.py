@@ -1,3 +1,3 @@
-"# Workshop.py
+## Kurs programowania w języku Python
 
-Python wokshop" 
+ 
