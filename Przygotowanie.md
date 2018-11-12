@@ -14,7 +14,7 @@ Jako środowisko pracy wybralismy Anacondę ponieważ, zawiwera ona zestaw narz�
 
 > Add Anaconda to my PATH
 
-![Add PATH](D:\aStudia\Szkolenia@@@@\GitWSH\Install.JPG)
+![Add PATH](https://img.itw01.com/images/2018/02/14/21/5708_Mzlrh0_IBRAES6.jpg!r1024x0.jpg)
 
 
 
