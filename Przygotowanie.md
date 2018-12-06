@@ -20,6 +20,8 @@ Jako środowisko pracy wybralismy Anacondę ponieważ, zawiwera ona zestaw narz�
 
 ### Sprawdzamy poprawność instalacji
 
+##### Aby to zrobić wyszukaj w swoim komputerze wiersz poleceń (cmd) a następnie wpisz poniższe polecenia
+
 `conda –version`
 
 `python –version`
